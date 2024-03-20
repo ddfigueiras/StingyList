@@ -13,5 +13,8 @@ UnsafeHelper.java: Utility class for performing unsafe operations.
 To use the StingyList implementation or run the test cases, you can compile and execute the Java files using any Java compiler or IDE (I'm using InteliJ and VSCode). 
 Ensure all files are included in the build path.
 
+# Contributions
+Contributions to this repository are not applicable as this is intended for educational purposes within the scope of a university assignment.
+
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
